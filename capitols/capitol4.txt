@@ -1,0 +1,1 @@
+A aquest capitol vorem comm emplear GitHub per allotjar repositoris en remot.
